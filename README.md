@@ -1,2 +1,2 @@
-# Courses
-Learning exercieses.
+# Tests
+Learning exercises.
